@@ -1,3 +1,3 @@
 In fact, it is zero memory usage.
-
 This does not change actual memory usage, only stop the game to reduce memory usage as a joke.
+lol :)
