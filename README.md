@@ -11,3 +11,5 @@ When you enter command /opti, it will reduce the memory occupation of the game.
 本模组十分不稳定，出现任何后果请自行负责。
 
 This mod is very unstable. please be responsible for any consequences.
+
+![Comparison Chart](https://i.postimg.cc/RFvMLJ2H/Comparison-Chart.png)
